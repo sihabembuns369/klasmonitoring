@@ -1,0 +1,545 @@
+[
+  {
+    "city": "Manado",
+    "lat": "1.4931",
+    "lng": "124.8413",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "admin",
+    "population": "461636",
+    "population_proper": "461636"
+  },
+  {
+    "city": "Tomohon",
+    "lat": "1.3244",
+    "lng": "124.8225",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "96411",
+    "population_proper": "96411"
+  },
+  {
+    "city": "Tungoo",
+    "lat": "0.7469",
+    "lng": "124.2611",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Tatelu",
+    "lat": "1.5307",
+    "lng": "124.9476",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Pineleng",
+    "lat": "1.4242",
+    "lng": "124.8387",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Ulu",
+    "lat": "2.7036",
+    "lng": "125.3938",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Bahoi",
+    "lat": "2.3619",
+    "lng": "125.3733",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Ondong Siau",
+    "lat": "2.7473",
+    "lng": "125.3611",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Likupang",
+    "lat": "1.6722",
+    "lng": "125.0610",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kema",
+    "lat": "1.3657",
+    "lng": "125.0748",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Talise",
+    "lat": "1.8334",
+    "lng": "125.0695",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kauditan",
+    "lat": "1.3913",
+    "lng": "125.0344",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Airmadidi",
+    "lat": "1.4280",
+    "lng": "124.9777",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Tondano",
+    "lat": "1.3054",
+    "lng": "124.9126",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Wori",
+    "lat": "1.5971",
+    "lng": "124.8525",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Ratahan",
+    "lat": "1.0549",
+    "lng": "124.8012",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Tombatu",
+    "lat": "1.0417",
+    "lng": "124.6836",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Poigar",
+    "lat": "1.0208",
+    "lng": "124.3089",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Amurang",
+    "lat": "1.1795",
+    "lng": "124.5713",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Tompasobaru",
+    "lat": "0.9202",
+    "lng": "124.4689",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Tenga",
+    "lat": "1.1615",
+    "lng": "124.4393",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Bitung",
+    "lat": "1.2075",
+    "lng": "124.5958",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Tahuna",
+    "lat": "3.6096",
+    "lng": "125.4905",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Manganitu",
+    "lat": "3.5762",
+    "lng": "125.5185",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kuma",
+    "lat": "3.5747",
+    "lng": "125.5775",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Manalu",
+    "lat": "3.5122",
+    "lng": "125.6230",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Tamako",
+    "lat": "3.4459",
+    "lng": "125.5270",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Enemawira",
+    "lat": "3.6565",
+    "lng": "125.5612",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Rainis",
+    "lat": "4.2328",
+    "lng": "126.8613",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Beo",
+    "lat": "4.2287",
+    "lng": "126.7987",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Melonguane",
+    "lat": "3.9989",
+    "lng": "126.6785",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Mangarang",
+    "lat": "3.8128",
+    "lng": "126.7514",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Lirung",
+    "lat": "3.9448",
+    "lng": "126.6726",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Essang",
+    "lat": "4.4550",
+    "lng": "126.7386",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Modayag",
+    "lat": "0.7105",
+    "lng": "124.3838",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Tutuyan",
+    "lat": "0.7654",
+    "lng": "124.6144",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Kotabunan",
+    "lat": "0.8122",
+    "lng": "124.6555",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Dumoga",
+    "lat": "0.6096",
+    "lng": "124.0826",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Passi",
+    "lat": "0.7655",
+    "lng": "124.2982",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Lolak",
+    "lat": "0.8755",
+    "lng": "124.0098",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Bilalang",
+    "lat": "0.7729",
+    "lng": "124.3010",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Lolayan",
+    "lat": "0.6460",
+    "lng": "124.3074",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Bolaang Mongondow",
+    "lat": "0.9411",
+    "lng": "124.1556",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Pimpi",
+    "lat": "0.8825",
+    "lng": "123.5502",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Boroko",
+    "lat": "0.9083",
+    "lng": "123.2679",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Bolangitang",
+    "lat": "0.9068",
+    "lng": "123.3067",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Molibagu",
+    "lat": "0.3862",
+    "lng": "123.9824",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+
+  {
+    "city": "Tabilaa",
+    "lat": "-0.3835",
+    "lng": "124.0478",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  }
+]

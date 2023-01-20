@@ -1,0 +1,167 @@
+[
+  {
+    "city": "Kabupaten Bolaang Mongondow",
+    "lat": "0.9583",
+    "lng": "124.26",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Bolaang Mongondow Selatan",
+    "lat": "0.3528",
+    "lng": "123.7992",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Bolaang Mongondow Timur",
+    "lat": "0.77",
+    "lng": "124.6139",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Bolaang Mongondow Utara",
+    "lat": "0.8938",
+    "lng": "123.3357",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Kepulauan Sangihe",
+    "lat": "3.5",
+    "lng": "125.5",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Kepulauan Talaud",
+    "lat": "4.31178",
+    "lng": "126.78085",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Minahasa",
+    "lat": "1.2288000395116623",
+    "lng": "124.94553367762026",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Minahasa Selatan",
+    "lat": "1.1068",
+    "lng": "124.5096",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Minahasa Tenggara",
+    "lat": "0.9877928467244674",
+    "lng": "124.77140776478883",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Minahasa Utara",
+    "lat": "1.6250444087073543",
+    "lng": "124.99135166408819",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kabupaten Siau Tagulandang Biaro",
+    "lat": "2.7548350401285777",
+    "lng": "125.40080484354593",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kota Bitung",
+    "lat": "1.4265339600802576",
+    "lng": "125.10217825072141",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kota Kotamobagu",
+    "lat": "0.7326157080564083",
+    "lng": "124.3087110329123",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kota Manado",
+    "lat": "1.460501015428967",
+    "lng": "124.83734528990952",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  },
+  {
+    "city": "Kota Tomohon",
+    "lat": "1.3183713522490932",
+    "lng": "124.83720250626583",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "admin_name": "Sulawesi Utara",
+    "capital": "minor",
+    "population": "",
+    "population_proper": ""
+  }
+]

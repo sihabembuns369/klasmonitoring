@@ -1,0 +1,1102 @@
+border: 1px solid #f1f1f1;
+box-sizing: border-box;
+box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.02);
+border-radius: 5px;
+.disabled-content {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.card-information {
+  margin-bottom: 20px;
+}
+
+.readonly {
+  background: #ffffff !important;
+}
+.btn-materi {
+  font-size: 12px;
+  border: 1px solid #efeff3;
+  border-radius: 4px;
+}
+
+.text-primary-blue {
+  color: #04a4eb !important;
+}
+
+.bg-primary-blue {
+  background-color: #04a4eb !important;
+}
+
+.btn-filter-primary {
+  color: #04a4eb !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  border: 1px solid #04a4eb !important;
+  width: 150px;
+  height: 40px !important;
+}
+
+.btn-filter-primary:hover {
+  color: #eef8ff !important;
+  font-weight: bold !important;
+  background-color: #04a4eb !important;
+}
+.btn-custom-detail {
+  padding: 4px 4px 4px 4px !important;
+}
+.button-terapkan {
+  color: #04a4eb !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  border: 1px solid #04a4eb !important;
+}
+
+.button-terapkan:hover {
+  color: #eef8ff !important;
+  font-weight: bold !important;
+  background-color: #04a4eb !important;
+}
+
+.btn-materi img {
+  width: 18px;
+  height: 18px;
+}
+
+.btn-sync {
+  border-radius: 5px;
+  border: 1px solid #32bea6;
+  background: #32bea6;
+}
+
+.btn-sync:hover {
+  border: 1px solid #32bea6;
+  background: #32bea6;
+}
+
+.btn-sync:focus {
+  border: 2px solid #32bea6 !important;
+  background: #32bea6;
+}
+
+/* side bar */
+.navbar-brand span {
+  font-size: 14px;
+  color: #463b3b;
+  font-weight: 500;
+}
+
+.card .card-logo img {
+  width: 60px;
+  height: 60px;
+}
+
+/* KLASMONITORING */
+
+.notification-refresh {
+  width: 100%;
+  height: auto;
+  background: #fff8e1;
+  border: 0.8px solid #ffedb3;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0212249);
+  border-radius: 5px;
+}
+
+.notification-refresh .logo-notification {
+  font-size: 14px;
+  color: #282d30;
+  font-weight: 700;
+}
+
+.notification-refresh .logo-notification span {
+  margin-left: 8px;
+}
+
+.notification-refresh .logo-notification img {
+  width: 34px;
+  height: 34px;
+}
+
+.notification-refresh .information-notification {
+  color: #74798c;
+  font-size: 13px;
+}
+
+.notification-refresh .information-notification span {
+  font-size: 14px;
+  text-decoration-line: underline;
+  color: #32bea6;
+}
+
+.notification-refresh .information-notification button {
+  color: #ffffff;
+  font-size: 13px;
+}
+
+.information-posting .label {
+  font-size: 14px;
+}
+.information-posting .icon-information {
+  font-weight: 450;
+  font-size: 14px;
+
+  color: #74798c;
+}
+.information-posting .icon-information img {
+  width: 10px;
+  height: 10px;
+}
+
+.information-posting .status-information {
+  font-size: 13px;
+}
+
+.box-information-onklas {
+  width: 100%;
+  height: auto;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0212249);
+  border-radius: 5px !important;
+}
+
+.box-information-onklas .header p {
+  font-size: 15px;
+  color: #20253a;
+  font-weight: 500;
+}
+
+.box-information-onklas select {
+  background: #ffffff;
+  border: 1px solid #dfdfdf;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+
+.box-information-onklas .list-data {
+  font-weight: 450;
+  font-size: 12px;
+  line-height: 24px;
+  color: #74798c;
+}
+
+.school-information ul li {
+  border: 0 none !important;
+  padding: 1px;
+}
+
+.periode-chart ul li {
+  border: 0 none !important;
+  padding: 0;
+  font-size: 10px;
+  color: #74798c;
+}
+
+.header .filter {
+  font-size: 12px !important;
+}
+
+.filter .filter-datepicker_calendar {
+  padding: 0 20px 0 30px;
+  overflow: hidden;
+  background-image: url("../../../image/icons/calendar.svg");
+  background-repeat: no-repeat;
+  background-position: 5px 10px;
+  font-size: 14px !important;
+}
+
+.filter-klasmember {
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: bold;
+  color: #282d30;
+}
+
+.input-search {
+  width: 303px !important;
+  height: 43px;
+  box-sizing: border-box;
+  box-shadow: 2px 5px 8px rgba(114, 114, 114, 0.03);
+  border-radius: 20px;
+  border: 1px solid #d2d2d2;
+  padding: 0 20px 0 15px;
+  overflow: hidden;
+  background-image: url("../../../image/icons/search.svg");
+  background-repeat: no-repeat;
+  background-position: 268px 10px;
+  font-size: 14px;
+}
+
+.header-school label {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #282d30;
+}
+
+.header-school input {
+  box-shadow: 0px 4px 16px rgba(204, 188, 252, 0.08);
+  border-radius: 4px !important;
+  height: 35px;
+  font-size: 11px;
+}
+
+.header-school select {
+  height: 35px;
+  font-size: 11px;
+}
+
+.header-school .next-filter button {
+  font-size: 11px;
+  height: 35px;
+}
+
+.header-table .information-data {
+  color: #20253a;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.header-filter-table {
+  color: #525252;
+  font-weight: 450;
+  font-size: 12px;
+  line-height: 21px;
+}
+
+.header-filter-table select {
+  width: 100%;
+  height: 35px;
+  font-size: 11px;
+}
+
+.header-filter-table button {
+  height: 100%;
+  font-size: 11px;
+}
+
+/* MATERI */
+
+.header-presentase .title-presentase p {
+  font-weight: normal;
+  font-size: 12px !important;
+  line-height: 5px;
+  align-items: center;
+  letter-spacing: 0.0025em;
+  color: #838383;
+}
+
+.header-presentase .presentase-total {
+  padding: 12px 10px 0px 10px;
+}
+
+.header-presentase .presentase-materi {
+  padding: 12px 10px 0px 10px;
+  background: #ffffff;
+  border: 1px solid #ececec;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0712);
+  border-radius: 5px;
+}
+
+.header-presentase .presentase-materi span {
+  font-weight: 500;
+  font-size: 12px;
+  color: #060606;
+}
+
+.box-presentase {
+  height: 330px;
+  background: #ffffff;
+  border: 1px solid #ececec;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0712);
+  border-radius: 5px;
+}
+
+.filter-presentase .filter-datepicker_calendar {
+  padding: 0 20px 0 30px;
+  width: 150px;
+  overflow: hidden;
+  background-image: url("../../../image/icons/calendar-presentase.svg");
+  background-repeat: no-repeat;
+  background-position: 5px 8px;
+  font-size: 14px !important;
+}
+
+.filter-presentase span {
+  font-size: 12px;
+}
+
+.box-presentase .table-presentase {
+  height: 245px;
+}
+
+.box-presentase .table-presentase .list-school {
+  width: 100%;
+}
+
+.box-presentase .table-presentase .list-school p {
+  list-style: none;
+  color: #74798c;
+  font-size: 13px;
+  font-weight: 450;
+  margin: 0 0 0;
+}
+
+.box-presentase .table-presentase .data-activity {
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 24px;
+  color: #060606;
+}
+
+.box-presentase .table-presentase .data-activity .activity-student p {
+  margin: 0 0 0;
+  font-size: 10px;
+  color: #060606;
+  font-weight: bold;
+}
+
+.box-presentase .table-presentase .data-activity .activity-download p {
+  margin: 0 0 0;
+  font-size: 10px;
+  color: #060606;
+  font-weight: bold;
+}
+
+.box-presentase .table-presentase .data-activity .activity-presentase p {
+  margin: 0 0 0;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* MODAL */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s !important;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0 !important;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: #0000001a;
+  z-index: 999;
+  transition: opacity 0.5s ease !important;
+}
+
+.modal-content .modal-header button {
+  font-size: 12px;
+}
+
+.modal-content .modal-body .image-profile {
+  width: 100%;
+  height: auto;
+}
+
+.modal-content .modal-body .image-profile img {
+  width: 70px;
+  height: 70px;
+  border-radius: 30px;
+}
+
+.modal-content .modal-body .image-book {
+  width: 100%;
+  height: auto;
+}
+
+.modal-content .modal-body .image-book img {
+  width: 100%;
+  height: 250px;
+}
+
+.modal-body .chart-persentase-modal p {
+  font-size: 12px;
+  text-align: center;
+}
+
+.biodata {
+  width: 530px;
+  height: 400px;
+}
+.modal-content .biodata .form-group label {
+  font-size: 12px !important;
+  color: #838383 !important;
+}
+.modal-content .biodata .form-group input {
+  height: 30px;
+  border-radius: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: 14px;
+  color: #000000;
+  border-bottom: 1px solid #ebebeb;
+  font-weight: bold;
+  padding: 0;
+}
+
+.modal-content .biodata .form-group textarea {
+  height: 60px;
+  border-radius: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid #ebebeb;
+  font-size: 14px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.teacher-count {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #20253a;
+}
+
+.filter-klas {
+  color: #474747;
+  font-size: 1px;
+  font-weight: 450;
+}
+
+.presentase p {
+  font-weight: 500;
+  font-size: 15px;
+  color: #20253a;
+}
+
+.presentase .radialbar-mapel {
+  background: #fff2f5;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.presentase .radialbar-mapel p {
+  font-size: 40px;
+  text-align: center;
+  color: #ff2e00;
+  font-weight: bold;
+}
+
+.radialbar-perpustakaan {
+  background: #dad7fe;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.radialbar-perpustakaan p {
+  font-size: 40px;
+  text-align: center;
+  color: #0054fe;
+  font-weight: bold;
+}
+
+.presentase .radialbar-ujian {
+  background: #e2fbd7;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.presentase .radialbar-ujian p {
+  font-size: 40px;
+  text-align: center;
+  color: #34b53a;
+  font-weight: bold;
+}
+
+.school-information .radialbar-klaspustaka {
+  background: #dad7fe;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.school-information .radialbar-klaspustaka p {
+  font-size: 40px;
+  text-align: center;
+  color: #0054fe;
+  font-weight: bold;
+}
+
+.school-information .radialbar-kedisiplinan {
+  background: #e2fbd7;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.school-information .radialbar-kedisiplinan p {
+  font-size: 40px;
+  text-align: center;
+  color: #34b53a;
+  font-weight: bold;
+}
+
+.presentase .information-posting .icon-information img {
+  width: 20px;
+  height: 20px;
+}
+
+.action-detail {
+  color: #04a4eb !important;
+  text-decoration: underline !important;
+}
+
+/* DETAIL SEKOLAH */
+.detail .information-media img {
+  width: 40px;
+  height: 40px;
+}
+
+.detail .information-media span {
+  font-weight: bold;
+  font-size: 18px;
+  color: #282d30;
+}
+
+.detail .information-sosial-media {
+  font-size: 14px;
+}
+
+.detail .information-sosial-media .verified {
+  font-weight: bold;
+  color: #203a21;
+}
+
+.detail .information-sosial-media .verified img {
+  width: 17.99px;
+  height: 18.13px;
+}
+
+.detail .information-address .table-address {
+  font-size: 14px;
+}
+
+.detail .information-address .table-address .address {
+  font-weight: bold;
+  color: #203a21;
+}
+
+.font-child {
+  font-size: 12px !important;
+}
+
+.progress-bar {
+  background: linear-gradient(to right, #ffffff, #855cf8) !important;
+  text-align: right !important;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.progress-custome {
+  height: 10px !important;
+}
+.highcharts-credits {
+  fill: #ffffff !important;
+}
+.soon-access {
+  font-size: 10px !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+  color: #000000 !important;
+  font-weight: bold;
+}
+
+.chart-persentase-modal .highcharts-legend-box {
+  display: none;
+}
+
+.chart-persentase-modal .highcharts-point {
+  display: none;
+}
+.card-box-list-city {
+  height: 500px;
+}
+
+.map-indonesia {
+  height: 80vh;
+}
+
+.map-indonesia .card-map {
+  width: 16vw;
+}
+
+.map-indonesia .card-map h4 {
+  font-size: 12px;
+}
+
+.map-indonesia .someExtraClass {
+  background-color: black;
+  padding: 5px;
+  border: 1px solid #333;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: auto !important;
+  height: auto !important;
+  margin: -50px 0px 0px -20px !important;
+}
+
+.map-indonesia .someExtraClass .leaflet-popup-tip-container {
+  width: 40px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  margin-left: -20px;
+  margin-top: 3px;
+  overflow: hidden;
+  pointer-events: none;
+}
+/* 
+.map-indonesia .leaflet-popup {
+  top: -180px !important;
+}
+
+.map-indonesia .leaflet-popup-content-wrapper {
+  width: 300px !important;
+} */
+
+.map-indonesia .someExtraClass .leaflet-popup-tip-container .leaflet-popup-tip {
+  background: white;
+  color: #333;
+  -webkit-box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
+.map-indonesia .someExtraClass .leaflet-popup-tip-container .popup-tip-custome {
+  background: black !important;
+}
+
+.map-indonesia .someExtraClass .image-mapping-marker {
+  width: 30px;
+}
+
+.map-indonesia .someExtraClass .headline {
+  background-color: white;
+  padding-top: 8px;
+  width: 30px !important;
+  height: 30px !important;
+  font-size: 10px;
+  text-align: center;
+}
+
+/* icon guru */
+
+.map-indonesia .leaflet-popup {
+  top: -195px !important;
+  margin-left: 14px !important;
+}
+
+.map-indonesia .leaflet-popup-content-wrapper {
+  width: 300px !important;
+}
+.map-indonesia .icon-guru {
+  background-color: #fec600;
+  padding: 5px;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: auto !important;
+  height: auto !important;
+  margin: -50px 0px 0px 0px !important;
+}
+
+.map-indonesia .icon-guru .leaflet-popup-tip-container {
+  width: 40px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  margin-left: -20px;
+  margin-top: 1px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.map-indonesia .icon-guru .leaflet-popup-tip-container .leaflet-popup-tip {
+  background: white;
+  color: #fec600;
+  -webkit-box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
+.map-indonesia .icon-guru .leaflet-popup-tip-container .popup-tip-custome {
+  background: #fec600 !important;
+}
+
+.map-indonesia .icon-guru .image-mapping-marker {
+  width: 30px;
+}
+
+.map-indonesia .icon-guru .headline {
+  background-color: #ffffff;
+  padding-top: 8px;
+  width: 30px !important;
+  height: 30px !important;
+  font-size: 10px;
+  text-align: center;
+}
+
+/* SOSIAL MEDIA */
+
+.sosial-media .rating-sosmed {
+  border: 1px solid #f1f1f1;
+  box-sizing: border-box;
+  box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.02);
+  border-radius: 5px;
+}
+
+/* Tabs */
+
+.information-media .card-header-tabs {
+  border-bottom: 0 !important;
+}
+.information-media .nav-tabs {
+  border-bottom: 0 !important;
+}
+.information-media .card-header {
+  border-bottom: none !important;
+}
+
+.information-media .nav-tabs li a {
+  border-bottom: none !important;
+  border-radius: 5px;
+  border: 1px solid #2dce89 !important;
+}
+
+.information-media .tabs-ebook .nav-link.active,
+.information-media .tabs-ebook .nav-link {
+  border: none !important;
+  background-color: 0 !important;
+}
+
+.information-media .nav-tabs li a.active {
+  border-bottom: none !important;
+  border-radius: 5px;
+}
+.map-indonesia .icon-murid {
+  background-color: #fe0098;
+  padding: 5px;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: auto !important;
+  height: auto !important;
+  margin: -50px 0px 0px 0px !important;
+}
+
+.map-indonesia .icon-murid .leaflet-popup-tip-container {
+  width: 40px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  margin-left: -20px;
+  margin-top: 1px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.map-indonesia .icon-murid .leaflet-popup-tip-container .leaflet-popup-tip {
+  background: white;
+  color: #fe0098;
+  -webkit-box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
+.map-indonesia .icon-murid .leaflet-popup-tip-container .popup-tip-custome {
+  background: #fe0098 !important;
+}
+
+.map-indonesia .icon-murid .image-mapping-marker {
+  width: 30px;
+}
+
+.map-indonesia .icon-murid .headline {
+  background-color: #ffffff;
+  padding-top: 8px;
+  width: 30px !important;
+  height: 30px !important;
+  font-size: 10px;
+  text-align: center;
+}
+
+.map-indonesia .icon-sekolah {
+  background-color: #4200fe;
+  padding: 5px;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: auto !important;
+  height: auto !important;
+  margin: -50px 0px 0px 0px !important;
+}
+
+.map-indonesia .icon-sekolah .leaflet-popup-tip-container {
+  width: 40px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  margin-left: -20px;
+  margin-top: 1px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.map-indonesia .icon-sekolah .leaflet-popup-tip-container .leaflet-popup-tip {
+  background: white;
+  color: #4200fe;
+  -webkit-box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+
+.map-indonesia .icon-sekolah .leaflet-popup-tip-container .popup-tip-custome {
+  background: #4200fe !important;
+}
+
+.map-indonesia .icon-sekolah .image-mapping-marker {
+  width: 30px;
+}
+
+.map-indonesia .icon-sekolah .headline {
+  background-color: #ffffff;
+  padding-top: 8px;
+  width: 30px !important;
+  height: 30px !important;
+  font-size: 10px;
+  text-align: center;
+}
+
+.product-school .name-product {
+  font-size: 14px;
+}
+
+.avatar {
+  background-color: #ffffff !important;
+}
+.card-posting {
+  border: 1px solid transparent !important;
+}
+.card-posting .card-body {
+  padding: 10px 0px 0px 0px !important;
+}
+
+.information-media .title-ebook {
+  line-height: 15px;
+}
+
+.information-media .title-profile {
+  line-height: 15px;
+}
+/* Responsive  */
+
+@media (max-width: 575px) {
+  /* Card body */
+
+  .card-body {
+    padding: 1rem !important;
+  }
+
+  .card-information {
+    margin-bottom: 10px;
+  }
+  .logo-notification img {
+    width: 28px !important;
+    height: 28px !important;
+  }
+  .logo-notification span {
+    font-size: 10px;
+    margin: 0px 0px 0px 4px;
+  }
+  .information-notification a span {
+    font-size: 12px !important;
+  }
+
+  .product-school span {
+    margin: 0px 0px 0px 12px !important;
+  }
+  .product-school .btn-custom-detail {
+    margin-top: 10px;
+  }
+
+  /* POSTING */
+
+  .header {
+    padding: 0 !important;
+  }
+  .information-posting .label {
+    font-size: 12px;
+    display: none;
+  }
+
+  .information-posting .icon-information {
+    font-size: 10px;
+    margin: 0 !important;
+  }
+
+  .information-posting .status-information {
+    font-size: 9px;
+  }
+
+  .header .filter {
+    padding: 0 !important;
+  }
+
+  .filter {
+    margin: 0 !important;
+  }
+  .filter .filter-assignment {
+    margin: 0 !important;
+    height: 40px;
+    width: 70px !important;
+    padding: 0 !important;
+    font-size: 12px;
+  }
+  .filter .form-check {
+    margin: 0 !important;
+  }
+
+  .filter .form-check-label {
+    display: none;
+  }
+
+  .filter .disabled-content input {
+    display: none;
+  }
+
+  .filter .disabled-content label {
+    display: none;
+  }
+
+  .filter .filter-assignment {
+    height: 36px;
+    width: 50px !important;
+    margin: 0px 0px 0px 2px !important;
+    font-size: 10px !important;
+  }
+
+  .filter .button-terapkan {
+    width: 90px !important;
+    padding: 10px 5px 10px 5px;
+    font-size: 8px !important;
+    margin: 0px 0px 0px 20px !important;
+  }
+
+  .filter .filter-datepicker_calendar {
+    padding: 0 20px 0 30px;
+    overflow: hidden;
+    background-image: url("../../../image/icons/calendar.svg");
+    background-repeat: no-repeat;
+    background-position: 5px 6px;
+    font-size: 8px !important;
+    margin: 0px 0px 0px 0px !important;
+  }
+
+  .box-information-onklas {
+    margin: 10px 0px 0px 0px !important;
+  }
+
+  .periode-chart ul li b {
+    margin: 0px 0px 0px 20px !important;
+  }
+
+  .presentase {
+    margin: 10px 0px 0px 0px;
+  }
+
+  /* PETA PERSEBARAN */
+
+  .mapping .label {
+    font-size: 12px !important;
+  }
+
+  .mapping .form-check input {
+    margin: -5px 0px 0px 100px !important;
+  }
+
+  .map-indonesia .card-map {
+    width: 200px;
+  }
+
+  /* KLASPUSTAKA */
+
+  .btn-materi {
+    margin: 0px 20px 0px 0px !important;
+  }
+
+  /* HEADER TABLE */
+
+  .header-school {
+    margin: 60px 0px 0px 0px !important;
+  }
+
+  .header-school label {
+    font-size: 14px;
+  }
+
+  .header-school .button-terapkan {
+    padding: 8px;
+  }
+
+  .header-table .information-data b {
+    font-size: 12px !important;
+  }
+
+  .header-school .btn-materi {
+    font-size: 10px !important;
+    padding: 10px !important;
+    width: 300px !important;
+    margin: 0px 0px 0px 10px !important;
+  }
+
+  .header-school .btn-materi img {
+    width: 10px;
+    height: 10px;
+  }
+
+  /* DETAIL SEKOLAH */
+
+  .back-detail {
+    margin: 50px 0px 0px 0px !important;
+  }
+  .information-media table tr td {
+    font-size: 12px;
+  }
+  .information-address table tr td {
+    font-size: 12px;
+  }
+
+  .header-school .next-filter .input-search {
+    width: 100px !important;
+    margin: 0 !important;
+    padding: 0 20px 0 15px;
+    background-position: 70px 10px;
+  }
+
+  .header-school .next-filter .btn-materi {
+    width: 90px !important  ;
+    margin: 0px 15px 0px 0px !important;
+  }
+
+  .header-school label {
+    font-size: 10px;
+  }
+
+  .header-school .next-filter .book-rent {
+    display: none;
+  }
+
+  /* MODAL */
+
+  .modal-header h4 {
+    font-size: 12px;
+  }
+}

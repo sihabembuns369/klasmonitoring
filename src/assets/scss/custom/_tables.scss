@@ -1,0 +1,94 @@
+//
+// Tables
+//
+
+@import "../core/tables/table";
+
+.table-wrapper {
+  max-height: 35vw !important;
+  overflow: auto !important;
+  display: inline-block !important;
+}
+
+// .table-wrapper::-webkit-scrollbar {
+//   width: 8px;
+//   height: 8px;
+// }
+// .table-wrapper::-webkit-scrollbar-track {
+//   background: #fff;
+// }
+
+// .table-wrapper::-webkit-scrollbar-thumb {
+//   background: $primary;
+//   border-radius: 10px;
+// }
+.table-total-data {
+  thead {
+    background-color: #343a40 !important;
+    color: #ffffff !important;
+
+    .table-b-table-default {
+      background-color: #343a40 !important;
+      color: #ffffff !important;
+    }
+    tr {
+      .b-table-sort-icon-left {
+        fill: #ffffff !important;
+      }
+    }
+  }
+}
+
+.b-table-sticky-header {
+  overflow-y: auto;
+  max-height: 500px;
+}
+
+.table-total-data > tbody > tr:nth-child(odd) > td,
+.table-total-data > tbody > tr:nth-child(odd) > th {
+  background-color: #f5f6fa; // Choose your own color here
+}
+
+.table-total-data > tbody > tr:nth-child(even) > td,
+.table-total-data > tbody > tr:nth-child(even) > th {
+  background-color: #ffffff; // Choose your own color here
+}
+
+.table.b-table {
+  thead {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+}
+
+.table.b-table > tbody > tr:nth-child(odd) > td,
+.table.b-table > tbody > tr:nth-child(odd) > th {
+  background-color: #f8f8f8 !important; // Choose your own color here
+}
+
+.table.b-table > tbody > tr:nth-child(even) > td,
+.table.b-table > tbody > tr:nth-child(even) > th {
+  background-color: #f2f2f2 !important; // Choose your own color here
+}
+
+.table.b-table > thead > tr > [aria-sort="none"],
+.table.b-table > tfoot > tr > [aria-sort="none"] {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='101' height='101' view-box='0 0 101 101' preserveAspectRatio='none'%3e%3cpath fill='white' d='M51 1l25 23 24 22H1l25-22z'/%3e%3cpath fill='white' opacity='.3' d='M51 101l25-23 24-22H1l25 22z'/%3e%3c/svg%3e") !important;
+}
+
+.table-information {
+  thead {
+    background: #757878 !important;
+  }
+}
+
+.svg-inline--fa.fa-w-10 {
+  width: 2em !important;
+}
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1.1em !important;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
